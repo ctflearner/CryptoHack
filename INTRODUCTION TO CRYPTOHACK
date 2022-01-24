@@ -6,3 +6,20 @@ Each challenge is designed to help introduce you to a new piece of cryptography.
 These flags will usually be in the format crypto{y0ur_f1rst_fl4g}. The flag format helps you verify that you found the correct solution.
 Try submitting this into the form below to solve your first challenge.
 FLAG:crypto{y0ur_f1rst_fl4g}
+
+CHALLENGE-2:Great Snakes
+DESCRIPTION:
+---------------
+Modern cryptography involves code, and code involves coding. CryptoHack provides a good opportunity to sharpen your skills.
+Of all modern programming languages, Python 3 stands out as ideal for quickly writing cryptographic scripts and attacks. For more information about why we think Python is so great for this, please see the FAQ.
+Run the attached Python script and it will output your flag.
+
+great_snakes.py
+
+SOLUTION
+--------------
+┌──(kali㉿kali)-[~/Desktop]
+└─$ python3 great_snakes_35381fca29d68d8f3f25c9fa0a9026fb.py
+Here is your flag:
+crypto{z3n_0f_pyth0n}
+
