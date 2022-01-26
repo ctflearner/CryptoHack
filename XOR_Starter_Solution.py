@@ -19,6 +19,4 @@ print(f"crypto{{{flag}}}")
 
 
 ---------------------------------------------------------
-##Explanation
-##ord(): The ord() function in Python accepts a string of length 1 as an argument and returns the unicode code point representation of the passed argument,For Example:ord(A) is 65
-and in the line 16: We XOR each character with the integer 13
+
